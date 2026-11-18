@@ -1,0 +1,20 @@
+{
+  "two-frames.y4m": {
+    "frames": 2,
+    "luma_min_max": [
+      [
+        0,
+        255
+      ],
+      [
+        7,
+        7
+      ]
+    ]
+  },
+  "truncated.y4m": {
+    "error": "TruncatedFrame",
+    "frame_index_zero_based": 1,
+    "missing_bytes": 1
+  }
+}
