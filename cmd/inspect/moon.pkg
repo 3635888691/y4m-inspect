@@ -1,0 +1,7 @@
+import {
+  "3635888691/y4m-inspect" @y4m,
+}
+
+pkgtype(kind: "executable")
+
+supported_targets = "js"
